@@ -1,2 +1,1 @@
-# js.learning
-only learning and getting benifit.
+console.log("Trying to learnJS")
